@@ -1,0 +1,8 @@
+D:\Projects\shop\Shop.UIClassic\bin\Debug\netstandard2.0\Shop.UIClassic.deps.json
+D:\Projects\shop\Shop.UIClassic\bin\Debug\netstandard2.0\Shop.UIClassic.dll
+D:\Projects\shop\Shop.UIClassic\bin\Debug\netstandard2.0\Shop.UIClassic.pdb
+D:\Projects\shop\Shop.UIClassic\obj\Debug\netstandard2.0\Shop.UIClassic.csprojAssemblyReference.cache
+D:\Projects\shop\Shop.UIClassic\obj\Debug\netstandard2.0\Shop.UIClassic.AssemblyInfoInputs.cache
+D:\Projects\shop\Shop.UIClassic\obj\Debug\netstandard2.0\Shop.UIClassic.AssemblyInfo.cs
+D:\Projects\shop\Shop.UIClassic\obj\Debug\netstandard2.0\Shop.UIClassic.dll
+D:\Projects\shop\Shop.UIClassic\obj\Debug\netstandard2.0\Shop.UIClassic.pdb
